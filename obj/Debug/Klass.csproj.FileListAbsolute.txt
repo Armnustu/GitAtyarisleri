@@ -1,0 +1,9 @@
+c:\users\anil\documents\visual studio 2013\Projects\Klass\Klass\bin\Debug\Klass.exe.config
+c:\users\anil\documents\visual studio 2013\Projects\Klass\Klass\bin\Debug\Klass.exe
+c:\users\anil\documents\visual studio 2013\Projects\Klass\Klass\bin\Debug\Klass.pdb
+c:\users\anil\documents\visual studio 2013\Projects\Klass\Klass\obj\Debug\Klass.csprojResolveAssemblyReference.cache
+c:\users\anil\documents\visual studio 2013\Projects\Klass\Klass\obj\Debug\Klass.Form1.resources
+c:\users\anil\documents\visual studio 2013\Projects\Klass\Klass\obj\Debug\Klass.Properties.Resources.resources
+c:\users\anil\documents\visual studio 2013\Projects\Klass\Klass\obj\Debug\Klass.csproj.GenerateResource.Cache
+c:\users\anil\documents\visual studio 2013\Projects\Klass\Klass\obj\Debug\Klass.exe
+c:\users\anil\documents\visual studio 2013\Projects\Klass\Klass\obj\Debug\Klass.pdb

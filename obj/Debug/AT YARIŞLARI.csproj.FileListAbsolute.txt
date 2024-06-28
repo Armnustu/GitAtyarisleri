@@ -1,0 +1,73 @@
+C:\Users\ANIL\Documents\Visual Studio 2013\Projects\Klass\Klass\bin\Debug\Klass.exe.config
+C:\Users\ANIL\Documents\Visual Studio 2013\Projects\Klass\Klass\obj\Debug\Klass.exe
+C:\Users\ANIL\Documents\Visual Studio 2013\Projects\Klass\Klass\obj\Debug\Klass.pdb
+C:\Users\ANIL\Documents\Visual Studio 2013\Projects\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.exe.config
+C:\Users\ANIL\Documents\Visual Studio 2013\Projects\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.exe
+C:\Users\ANIL\Documents\Visual Studio 2013\Projects\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.pdb
+C:\Users\ANIL\Desktop\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.exe.config
+C:\Users\ANIL\Desktop\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.exe
+C:\Users\ANIL\Desktop\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.pdb
+C:\Users\ANIL\Desktop\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.exe
+C:\Users\ANIL\Desktop\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.pdb
+C:\Users\ANIL\Desktop\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csprojResolveAssemblyReference.cache
+C:\Users\ANIL\Desktop\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.Form1.resources
+C:\Users\ANIL\Desktop\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.Properties.Resources.resources
+C:\Users\ANIL\Desktop\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csproj.GenerateResource.Cache
+E:\ \CV ÇALIŞMASI\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.exe.config
+E:\ \CV ÇALIŞMASI\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.exe
+E:\ \CV ÇALIŞMASI\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.pdb
+E:\ \CV ÇALIŞMASI\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.exe
+E:\ \CV ÇALIŞMASI\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.pdb
+E:\ \CV ÇALIŞMASI\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csprojResolveAssemblyReference.cache
+E:\ \CV ÇALIŞMASI\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.Form1.resources
+E:\ \CV ÇALIŞMASI\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.Properties.Resources.resources
+E:\ \CV ÇALIŞMASI\C# PROJELERİ\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csproj.GenerateResource.Cache
+C:\Users\lenova\Desktop\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.exe.config
+C:\Users\lenova\Desktop\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.exe
+C:\Users\lenova\Desktop\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.pdb
+C:\Users\lenova\Desktop\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.exe
+C:\Users\lenova\Desktop\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.pdb
+C:\Users\lenova\Desktop\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csprojResolveAssemblyReference.cache
+C:\Users\lenova\Desktop\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.Form1.resources
+C:\Users\lenova\Desktop\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.Properties.Resources.resources
+C:\Users\lenova\Desktop\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.exe.config
+C:\Users\Lenovo\Desktop\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.exe
+C:\Users\Lenovo\Desktop\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.pdb
+C:\Users\Lenovo\Desktop\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.Form1.resources
+C:\Users\Lenovo\Desktop\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.exe
+C:\Users\Lenovo\Desktop\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.pdb
+D:\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.exe.config
+D:\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.exe
+D:\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.pdb
+D:\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csproj.AssemblyReference.cache
+D:\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.Form1.resources
+D:\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.Properties.Resources.resources
+D:\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csproj.GenerateResource.cache
+D:\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csproj.CoreCompileInputs.cache
+D:\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.exe
+D:\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.pdb
+D:\yedek lenovo\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.exe.config
+D:\yedek lenovo\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.exe
+D:\yedek lenovo\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csproj.AssemblyReference.cache
+D:\yedek lenovo\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csproj.SuggestedBindingRedirects.cache
+D:\yedek lenovo\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.Form1.resources
+D:\yedek lenovo\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.Properties.Resources.resources
+D:\yedek lenovo\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csproj.GenerateResource.cache
+D:\yedek lenovo\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csproj.CoreCompileInputs.cache
+D:\yedek lenovo\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.exe
+D:\yedek lenovo\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.pdb
+E:\yedeklenovo\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.exe.config
+E:\yedeklenovo\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.exe
+E:\yedeklenovo\AT YARIŞI\AT YARIŞLARI\bin\Debug\Klass.pdb
+E:\yedeklenovo\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csproj.AssemblyReference.cache
+E:\yedeklenovo\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.Form1.resources
+E:\yedeklenovo\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.Properties.Resources.resources
+E:\yedeklenovo\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csproj.GenerateResource.cache
+E:\yedeklenovo\AT YARIŞI\AT YARIŞLARI\obj\Debug\AT YARIŞLARI.csproj.CoreCompileInputs.cache
+E:\yedeklenovo\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.exe
+E:\yedeklenovo\AT YARIŞI\AT YARIŞLARI\obj\Debug\Klass.pdb
